@@ -16,3 +16,8 @@ The U.S. Agency for International Development (USAID) was heavily targeted and e
 ### Dismantling DEI: 
 The initiative actively sought out and eliminated diversity, equity, and inclusion (DEI) programs, and mandated the deletion of certain LBGTQ+ health and vaccine information from federal websites.
 
+## Privacy & Oversight Issues
+### Data Security: 
+Whistleblowers and cybersecurity experts expressed alarm over the reckless handling of sensitive Social Security data, which was accessed and utilized by young tech contractors embedded into federal agencies.
+### Lawsuits & Oversight: 
+Multiple lawsuits accused DOGE and Musk of breaking the Privacy Act of 1974. Agencies struggled to balance the demand for cuts against legal transparency and accountability, as several initiatives were blocked in court.
