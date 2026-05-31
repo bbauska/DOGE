@@ -1,4 +1,18 @@
 # DOGE
 Department of Government Efficiency. Ran by the man who elected DJT. Define evil in 2025.
 
-Critiques of Elon Musk and the Department of Government Efficiency (DOGE) center on mass federal job losses, threats to national security, and legal concerns over privacy. Critics argue their heavy-handed approach disrupted essential government services, and allege the initiative was used to push right-wing political agendas rather than actual efficiency.Mass Layfoffs & DisruptionJob Losses: DOGE’s aggressive cuts led to the termination of hundreds of thousands of federal jobs, which unions and management experts criticized as causing massive, chaotic disruptions to government productivity.Agency Damage: The U.S. Agency for International Development (USAID) was heavily targeted and effectively shuttered, resulting in a flurry of lawsuits and widespread disruptions to foreign aid and domestic farming programs.Dismantling DEI: The initiative actively sought out and eliminated diversity, equity, and inclusion (DEI) programs, and mandated the deletion of certain LBGTQ+ health and vaccine information from federal websites.
+Critiques of Elon Musk and the Department of Government Efficiency (DOGE) center on mass federal job losses, threats to 
+national security, and legal concerns over privacy. Critics argue their heavy-handed approach disrupted essential government 
+services, and allege the initiative was used to push right-wing political agendas rather than actual efficiency.
+
+## Mass Layfoffs & Disruption
+### Job Losses: 
+DOGE’s aggressive cuts led to the termination of hundreds of thousands of federal jobs, which unions 
+and management experts criticized as causing massive, chaotic disruptions to government productivity.
+
+### Agency Damage: 
+The U.S. Agency for International Development (USAID) was heavily targeted and effectively shuttered, resulting in a flurry of lawsuits and widespread disruptions to foreign aid and domestic farming programs.
+
+### Dismantling DEI: 
+The initiative actively sought out and eliminated diversity, equity, and inclusion (DEI) programs, and mandated the deletion of certain LBGTQ+ health and vaccine information from federal websites.
+
